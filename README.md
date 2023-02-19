@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/urboyrip/urboyrip/blob/main/messageImage_1676798017327.jpg" alt="Welcome">
+</div>
+
 # Halo semua! 👋
 
 😄 Perkenalkan nama saya **Urboyrip**.
