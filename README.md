@@ -1,12 +1,12 @@
 # Halo semua! 👋
 
-Perkenalkan nama saya **Urboyrip**.
+😄 Perkenalkan nama saya **Urboyrip**.
 
-Saya seorang **Mahasiswa** di salah satu kampus di Surabaya.
+💻 Saya seorang **Mahasiswa** di salah satu kampus di Surabaya.
 
-Saya gatau mau masukin apalagi disini karena saya bingung
+🤔 Saya gatau mau masukin apalagi disini karena saya bingung
 
-Kalo mau kenal lebih lanjut tunggu nanti aja ya kalo aku dah ada niat membuat halaman readme ini :D
+💬 Kalo mau kenal lebih lanjut tunggu nanti aja ya kalo aku dah ada niat membuat halaman readme ini :D
 
 ### Github Statistic
 <p align="left">
