@@ -6,7 +6,7 @@
 
 😄 Perkenalkan nama saya **Urboyrip**.
 
-💻 Saya seorang **Mahasiswa** di salah satu kampus di Surabaya.
+💻 Saya seorang **Alumnus** dari salah satu kampus di Surabaya.
 
 🤔 Saya gatau mau masukin apalagi disini karena saya bingung
 
